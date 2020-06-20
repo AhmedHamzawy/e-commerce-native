@@ -1,0 +1,19 @@
+/*@import url(https://fonts.googleapis.com/css?family=Kaushan+Script|Handlee|Lobster|Varela+Round&subset=latin,latin-ext);*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:top}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+body{line-height:1; font-size:12px;}
+ol,ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
+table{border-collapse:collapse;border-spacing:0}
+.clearfix{*zoom:1}
+.clearfix:before,.clearfix:after{display:table;content:"";line-height:0}
+.clearfix:after{clear:both}
+body{background:#fff;font-family: 'Varela Round', sans-serif; overflow:hidden;}
+a{text-decoration:none;cursor:pointer;-webkit-transition:.3s all ease;transition:.3s all ease}
+a:hover{-webkit-transition:.3s all ease;transition:.3s all ease}
+a[href^="tel:"]{color:inherit;text-decoration:none}
+h2 a,h3 a,h4 a,h5 a{color:inherit;font:inherit}
+h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover{color:#6BB9F0;}
+a { color:#858d94;}
+*{-webkit-text-size-adjust:none}

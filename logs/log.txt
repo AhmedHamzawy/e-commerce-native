@@ -1,0 +1,7 @@
+2016-05-09 00:02:15 | Logs Cleared: by User ID 32
+2016-05-09 07:01:49 | Order Updated: An Order 24 is updated
+2016-05-09 22:17:14 | Order Updated: An Order 24 is updated
+2016-05-09 22:43:53 | Order Updated: An Order 24 is updated
+2016-05-09 23:02:54 | Order Updated: An Order 24 is updated
+2016-05-09 23:04:28 | Order Updated: An Order 24 is updated
+2016-05-12 03:26:03 | Category Added: A new Category test is added

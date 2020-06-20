@@ -1,0 +1,84 @@
+#carousel_inner {
+float:left; /* important for inline positioning */
+width:97.3%; /* important (this width = width of list item(including margin) * items shown */
+overflow: hidden;  /* important (hide the items outside the div) */
+/* non-important styling bellow */
+height:850px;
+}
+
+#carousel_ul {
+position:relative;
+left:-40em; /* important (this should be negative number of list items width(including margin) */
+list-style-type: none; /* removing the default styling for unordered list items */
+margin: 0px;
+padding: 0px;
+width:624.938em; /* important */
+/* non-important styling bellow */
+padding-bottom:10px;
+}
+
+#carousel_ul li{
+float: left; /* important for inline positioning of the list items */
+/* just styling bellow*/
+padding:0px;
+height:700px;
+margin-top:10px;
+margin-bottom:10px;
+margin-left:5px;
+margin-right:5px;
+}
+
+#carousel_ul li img {
+.margin-bottom:-4px; /* IE is making a 4px gap bellow an image inside of an anchor (<a href...>) so this is to fix that */
+/* styling */
+cursor:pointer;
+cursor: hand;
+border:0px;
+}
+#left_scroll, #right_scroll{
+float:left;
+width:1.4em;
+margin: 300px 0 0 0;
+}
+#left_scroll img, #right_scroll img{
+border:0; /* remove the default border of linked image */
+/*styling*/
+cursor: pointer;
+cursor: hand;
+
+}
+@media screen and (max-width:1256px) {
+#left_scroll, #right_scroll{
+width:1em;
+}
+}
+@media screen and (max-width:900px) {
+#left_scroll, #right_scroll{
+width:0.8em;
+}
+}
+@media screen and (max-width:752px) {
+#left_scroll, #right_scroll{
+width:0.7em;
+}
+}
+@media screen and (max-width:720px) {
+#left_scroll, #right_scroll{
+width:0.6em;
+}
+}
+@media screen and (max-width:544px) {
+#left_scroll, #right_scroll{
+width:0.5em;
+}
+}
+@media screen and (max-width:465px) {
+#left_scroll, #right_scroll{
+width:0.4em;
+}
+}
+@media screen and (max-width:380px) {
+#left_scroll, #right_scroll{
+width:0.3em;
+}
+}
